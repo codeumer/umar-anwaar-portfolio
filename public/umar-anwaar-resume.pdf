@@ -1,0 +1,110 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 4 0 R >> >> /Contents 5 0 R >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+5 0 obj
+<< /Length 2185 >>
+stream
+BT
+/F1 24 Tf
+72 760 Td
+(Umar Anwaar) Tj
+/F1 11 Tf
+0 -24 Td
+/F1 10 Tf
+(Senior React Native Developer) Tj
+0 -16 Td
+/F1 10 Tf
+(Email: umar.anwaar.dev@gmail.com) Tj
+0 -16 Td
+/F1 10 Tf
+(GitHub: https://github.com/umaranwaar) Tj
+0 -16 Td
+/F1 10 Tf
+(LinkedIn: https://www.linkedin.com/in/umar-anwaar) Tj
+0 -16 Td
+/F1 10 Tf
+() Tj
+0 -16 Td
+/F1 13 Tf
+(PROFILE) Tj
+0 -16 Td
+/F1 10 Tf
+(6+ years building scalable React Native applications, realtime systems, GPS tracking solutions, booking platforms, and performance-focused mobile experiences.) Tj
+0 -16 Td
+/F1 10 Tf
+() Tj
+0 -16 Td
+/F1 13 Tf
+(CORE EXPERTISE) Tj
+0 -16 Td
+/F1 10 Tf
+(React Native, React, TypeScript, Redux Toolkit, Reanimated interactions, mobile architecture, Pusher, Supabase realtime, Socket.io, Firebase, maps, geofencing, CI/CD, Jest, Appium.) Tj
+0 -16 Td
+/F1 10 Tf
+() Tj
+0 -16 Td
+/F1 10 Tf
+(DIRECTKSA | Senior React Native Developer | 2023 - Present) Tj
+0 -16 Td
+/F1 10 Tf
+(Built and improved flight booking and hotel booking flows with realtime updates. Solely delivered an eSIM purchase and activation module. Integrated Pusher realtime data, led large refactoring, reduced app size, and optimized performance.) Tj
+0 -16 Td
+/F1 10 Tf
+() Tj
+0 -16 Td
+/F1 10 Tf
+(MOOV EVENTS | Lead Developer) Tj
+0 -16 Td
+/F1 10 Tf
+(Led realtime event-management work with GPS tracking, live participant monitoring, geofencing, zone waypoint handling, and WhatsApp-style messaging powered by Supabase realtime.) Tj
+0 -16 Td
+/F1 10 Tf
+() Tj
+0 -16 Td
+/F1 10 Tf
+(MAXENIUS | React Native Developer) Tj
+0 -16 Td
+/F1 10 Tf
+(Built mobile features with Redux Toolkit, supported CI/CD workflows, reviewed code, and refactored production codebases for maintainability.) Tj
+0 -16 Td
+/F1 10 Tf
+() Tj
+0 -16 Td
+/F1 13 Tf
+(FEATURED PROJECTS) Tj
+0 -16 Td
+/F1 10 Tf
+(DirectKSA Travel Platform: flights, hotels, eSIM activation, realtime updates, Firebase, Redux Toolkit, Pusher.) Tj
+0 -16 Td
+/F1 10 Tf
+(Moov Events: live tracking, geofencing, waypoint management, Supabase realtime messaging.) Tj
+0 -16 Td
+/F1 10 Tf
+(Totl Football Quiz: multiplayer football quiz with realtime chat and lobby functionality using Socket.io, Node.js, and MongoDB.) Tj
+0 -16 Td
+ET
+endstream
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000241 00000 n 
+0000000311 00000 n 
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+2548
+%%EOF
